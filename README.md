@@ -53,7 +53,7 @@ Projede kullanılan başlıca teknolojiler:
 1. Bu projeyi kendi bilgisayarınıza klonlayın:
 
    ```bash
-   git clone https://github.com/kullaniciadi/Java101-Dersi.git
+   git clone https://github.com/bkcakir/Java101-Examples-And-Assignments.git
    ```
 
 2. Bir Java IDE'si (örneğin IntelliJ IDEA) kullanarak projeyi açın.
