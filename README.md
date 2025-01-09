@@ -32,12 +32,9 @@ Java101-Dersi
 │   ├── ornekler         # Ders içinde işlenen örnekler
 │   │   ├── konu1
 │   │   └── konu2
-│   └── odevler          # Ödevlerin çözümleri
-│       ├── odev1
-│       └── odev2
+│   
 │
 ├── README.md            # Proje hakkında bilgi
-└── LICENSE              # Lisans bilgisi
 ```
 
 ## Kullanılan Teknolojiler
